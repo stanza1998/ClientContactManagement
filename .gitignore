@@ -1,0 +1,10 @@
+# Ignore Visual Studio temporary files and folders
+.vs/
+*.vsidx
+
+# Ignore other common temporary files and folders
+node_modules/
+dist/
+build/
+.DS_Store
+Thumbs.db
